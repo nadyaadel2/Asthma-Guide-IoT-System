@@ -1,16 +1,16 @@
-# Asthma Guide - IoT Capstone Project
+# Asthma Guide IoT & Mobile System
 
-An intelligent hardware-software IoT system designed to assist asthma patients by monitoring environmental triggers (smoke, temperature, and humidity) in real-time.
+An IoT-based public health monitoring system engineered to track environmental triggers in real-time and empower chronic illness patients to manage their condition proactively.
 
-## 🚀 Project Overview
-This capstone project was engineered by a 3-member team at Qena STEM School to address public health challenges in Egypt. The system integrates environmental sensors with a companion mobile application to empower chronic illness patients to manage their condition proactively.
+## Overview
+This capstone project integrates environmental hardware sensors with a companion mobile application. It automatically monitors hazardous environmental factors and triggers instant visual alerts to safeguard patients' respiratory health.
 
-## 🛠️ Key Features & Architecture
-- **Hardware Components:** Built using Arduino Nano, ESP8266 Wi-Fi module, MQ135 (gas/smoke sensor), DHT11 (temperature and humidity sensor), and an OLED display.
-- **Mobile Application Integration:** Connects via Bluetooth and Wi-Fi to allow patients to configure custom environmental triggers (e.g., hot >35°C, cold <15°C, or smoke presence) and trigger visual alerts.
-- **Performance & Testing:** Achieved a rapid **0.5-second system response time** and verified environmental sensing accuracy through comprehensive test plans.
+## Architecture & Components
+- Hardware Unit: Built using Arduino Nano, ESP8266 Wi-Fi module, MQ135 gas/smoke sensor, DHT11 temperature and humidity sensor, and an OLED display.
+- Mobile Application: Connects via Bluetooth and Wi-Fi to allow users to configure custom environmental thresholds (e.g., high temperature, humidity, or smoke presence) and receive instant alerts.
+- Testing & Validation: Achieved a rapid 0.5-second system response time, verified through structured test plans and hardware-software integration protocols.
 
-## 📁 Repository Contents & Demos
-- **`1-Poster.pdf`**: The official technical research poster detailing the methodology, data analysis, and conclusions.
-- **`portfolio.docx`**: Comprehensive project documentation and system architecture design.
-- **🎥 Test Plan & Prototype Demo:** You can watch the full system testing and prototype demonstration [via Google Drive Link](https://drive.google.com/file/d/1BpUNjegRtRex143CKG0hC9h7c9SocyIF/view?usp=sharing).
+## Key Metrics & Highlights
+- Engineered an IoT environmental monitoring system achieving a 0.5-second rapid response time for critical alert triggers.
+- Integrated multi-sensor hardware architecture with wireless mobile connectivity for real-time environmental trigger tracking.
+- Validated system reliability, data accuracy, and functional performance through comprehensive test plans and prototype demonstrations.
