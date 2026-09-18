@@ -10,6 +10,9 @@ This capstone project integrates environmental hardware sensors with a companion
 - Mobile Application: Connects via Bluetooth and Wi-Fi to allow users to configure custom environmental thresholds (e.g., high temperature, humidity, or smoke presence) and receive instant alerts.
 - Testing & Validation: Achieved a rapid 0.5-second system response time, verified through structured test plans and hardware-software integration protocols.
 
+## Project Links & Demo
+- [Access Full Source Code & Documentation] (ضع هنا رابط الريبو أو ملف التقرير الخاص بك)
+
 ## Key Metrics & Highlights
 - Engineered an IoT environmental monitoring system achieving a 0.5-second rapid response time for critical alert triggers.
 - Integrated multi-sensor hardware architecture with wireless mobile connectivity for real-time environmental trigger tracking.
