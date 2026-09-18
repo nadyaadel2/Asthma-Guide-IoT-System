@@ -10,8 +10,8 @@ This capstone project bridges hardware sensors and mobile connectivity to establ
 - Mobile Application: Communicates via wireless protocols to let users configure custom environmental safety thresholds and receive instant alerts.
 - Testing & Validation: Validated through systematic integration protocols, achieving a rapid 0.5-second system response time for critical triggers.
 
-## Project Resources & Documentation
-- [Access Full Project Documentation & Files](https://drive.google.com/file/d/1BpUNjegRtRex143CKG0hC9h7c9SocyIF/view?usp=sharing)
+## Project Resources & Demonstration
+- [فيديو لعرض المشروع واختباره](https://drive.google.com/file/d/1BpUNjegRtRex143CKG0hC9h7c9SocyIF/view?usp=sharing)
 
 ## Key Metrics & Highlights
 - Engineered an IoT environmental monitoring system achieving a 0.5-second rapid response time for critical alert triggers.
